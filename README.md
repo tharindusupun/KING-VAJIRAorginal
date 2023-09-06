@@ -28,9 +28,8 @@ King Vajira whatsapp bot is,
 
 ##  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@vajirabot1/KING-VAJIRA-4?v=1)
 
-
-
-<b><details><summary>✡☯🔯  𝗗𝗘𝗣𝗟𝗢𝗬 5 METHOD ✡☯🔯</summary>
+↪️Deploy කරන්න ඔනි Site එක තොරන්න (✡↘️𝗗𝗘𝗣𝗟𝗢𝗬 5 METHOD↙️✡)එක Touch කරන්න👇↩️
+<b><details><summary>✡↘️𝗗𝗘𝗣𝗟𝗢𝗬 5 METHOD↙️✡</summary>
 
 
 ## [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fnipuna15%2FBlue-Lion-V2&template=https://github.com/vajirabot1/KING-VAJIRA)
