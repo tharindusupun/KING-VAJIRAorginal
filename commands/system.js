@@ -3,7 +3,7 @@
   You may not use this file except in compliance with the License. 
   It is supplied in the hope that it may be useful. 
   * @project_name : KI G-VAJIRA_Bot 
-  * @author : nipuna rangana
+  * @author : vajira rathnayaka
   * @description : KING-VAJIRA,A Multi-functional whatsapp bot. 
   * @version 0.0.2 **/
  
@@ -45,7 +45,7 @@ cmd({
                 headerType: 4,
                 contextInfo: {
                     externalAdReply: {
-                        title: 'Secktor Session',
+                        title: 'Secktor Session',6
                         body: 'Get you Session ID',
                         thumbnail: log0,
                         mediaType: 2,
