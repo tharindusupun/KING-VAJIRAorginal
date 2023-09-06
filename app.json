@@ -12,7 +12,7 @@
    }, 
    "ALIVE_MESSAGE": { 
      "description": "Alive message for bot", 
-      "required" :false 
+      "required" :true 
      }, 
      "SESSION_ID": {
       "description": "Please put your SESSION_ID here"
