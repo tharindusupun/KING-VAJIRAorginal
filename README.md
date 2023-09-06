@@ -31,6 +31,8 @@ King Vajira whatsapp bot is,
 
  ### ✡☯🔯  𝗗𝗘𝗣𝗟𝗢𝗬 5 METHOD ✡☯🔯
 
+<b><details><summary>✡☯🔯  𝗗𝗘𝗣𝗟𝗢𝗬 5 METHOD ✡☯🔯</summary>
+
 
 ## [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fnipuna15%2FBlue-Lion-V2&template=https://github.com/vajirabot1/KING-VAJIRA)
   
@@ -43,6 +45,11 @@ King Vajira whatsapp bot is,
 </p>
  
 ## [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/nipuna15/Blue-Lion-V2)
+
+</b>
+</details>
+
+<b><details><summary>𝗘𝗥𝗥𝗢𝗥 𝗖𝗢𝗗𝗘𝗦?</summary>
 
 **RUN*** Doesn't work, paste these commands in repl shell
 
@@ -64,6 +71,8 @@ Copy the JSON down and paste in repl then fill the vars
    
 }
 ```
+</b>
+</details>
     
    ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=008000&lines=HOW+TO+DEVOLP+BY;MADE+BY+CYBER+TECH+TEAM..)](https://git.io/typing-svg)
    
