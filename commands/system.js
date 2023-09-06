@@ -2,9 +2,9 @@
   Licensed under the  GPL-3.0 License; 
   You may not use this file except in compliance with the License. 
   It is supplied in the hope that it may be useful. 
-  * @project_name : Blue_Lion_Bot 
+  * @project_name : KI G-VAJIRA_Bot 
   * @author : nipuna rangana
-  * @description : Blue-Lion,A Multi-functional whatsapp bot. 
+  * @description : KING-VAJIRA,A Multi-functional whatsapp bot. 
   * @version 0.0.2 **/
  
 const { addnote,cmd, sck1, delnote, allnotes, delallnote, tlang, botpic, runtime, prefix, Config } = require('../lib')
@@ -248,7 +248,7 @@ Void.sendMessage(citel.chat, {
           }) 
           await Void.sendPresenceUpdate('recording', citel.chat);
           await Void.sendMessage(citel.chat, { audio: {url : 'https://github.com/nipuna15/Voice/raw/main/Alive.mp3',}, mimetype: 'audio/mpeg', ptt: true }, { quoted: citel, });
-            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Nipuna rangana.*`
+            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Vajira Rathnayaka.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
 This is  ${tlang().title}.
