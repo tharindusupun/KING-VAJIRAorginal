@@ -29,7 +29,6 @@ King Vajira whatsapp bot is,
 ##  [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@vajirabot1/KING-VAJIRA-4?v=1)
 
 
- ### ✡☯🔯  𝗗𝗘𝗣𝗟𝗢𝗬 5 METHOD ✡☯🔯
 
 <b><details><summary>✡☯🔯  𝗗𝗘𝗣𝗟𝗢𝗬 5 METHOD ✡☯🔯</summary>
 
@@ -85,11 +84,11 @@ Copy the JSON down and paste in repl then fill the vars
    
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=If+you+think+this+bot+is+not+good;deploy+another+bot+you+like;If+you+become+Question+about+bot;join+our+Whatsapp+support+group;to+solve+it+♥️)](https://git.io/typing-svg)
   
-#  🌐🤍𝐁𝐋𝐔𝐄 𝐋𝐈𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🤍🌐  <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
+#  🌐🤍𝐊𝐈𝐍𝐆 𝐕𝐀𝐉𝐈𝐑𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🤍🌐  <img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" width="50px">
 
-* [🧑‍💻 Join Blue Lion Support Group 🧑‍💻](https://chat.whatsapp.com/JBjM2yRpqJD5rGUEKQOpHi)
+* [🧑‍💻 Join King Vajira Support Group 🧑‍💻](https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk)
 
-* [🧑‍💻 Join Blue Lion Support Group 🧑‍💻](https://chat.whatsapp.com/GkYZvcVSUSR1WBvl6rBpiw)
+* [🧑‍💻 Join King Vajira Support Group 🧑‍💻](https://chat.whatsapp.com/BvNbfgOzzo77urGqoNjThk)
 
 
 <br>
