@@ -25,7 +25,6 @@ King Vajira whatsapp bot is,
   
  
 ### 📸 ＳＣＡＮ ＱＲ ＣＯＤＥ 📸
-## 1 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@nipunarangana/BLUE-LION-V2?v=1)
 
 ## 2 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@vajirabot1/KING-VAJIRA-4?v=1)
 
