@@ -1,25 +1,25 @@
 <div align="center">
-    ⏬<b>🌐🤍𝐁𝐋𝐔𝐄 𝐋𝐈𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🤍🌐</b>⏬</b>
+    ⏬<b>🌐🤍𝗞𝗜𝗡𝗚-𝗩𝗔𝗝𝗜𝗥𝗔 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🤍🌐</b>⏬</b>
 
   
 <div align="center">
 </p>
 
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+BLUE+LION+WHATSAPP+BOT;MADE+BY+CYBER+TECH+TEAM)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F00&lines=WELCOME+TO+KING+VAJIRA+WHATSAPP+BOT;MADE+BY+VAJIRA+TECH+TEAM)](https://git.io/typing-svg)
 
    <p align="center">
-<a href="https://github.com/nipuna15">
-    <img src="https://i.ibb.co/n0DTPxs/Whats-App-Image-2023-06-16-at-15-06-03.jpg" width="700px">
+<a href="https://github.com/vajirabot1">
+    <img src="https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg" width="700px">
   </a>
   
 
-# Blue Lion Whatsapp Bot
+# Vajira Bot Whatsapp Bot
 
 
-Blue Lion whatsapp bot is,
+King Vajira whatsapp bot is,
 
-      Blue Lion whatsapp bot is an easy to use whatsapp robot.   |  Blue Lion whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
+      King Vajira whatsapp bot is an easy to use whatsapp robot.   |  King Vajira whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
 
   
